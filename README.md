@@ -4,7 +4,7 @@ An interactive Icy Tower Game built with JavaScript, HTML, and CSS. Let's come t
 
 ## Installation
 
-1. Clone the repository to your local machine:git clone https://axeljoaquindiaz2017-png.github.io/recuperatorio-2-taller-axel-diaz/
+1. Clone the repository to your local machine:git clone https://github.com/axeljoaquindiaz2017-png/recuperatorio-2-taller-axel-diaz.git
 2. Open `Home-page.html` in your preferred web browser.
 
 3. Register for the game, enter your name and valid email and password, and proceed.
